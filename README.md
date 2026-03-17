@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Roman Ostafeichuk
+# 👋 Hi, I'm Roman Ostafeychuk
 
-**Student MIPT (DREC)**  
-**System programming • C / C++ • Linux • Low-level development**
+**MIPT student (DREC)**  
+**Systems programming • Compilers • C / C++ • Linux**
 
-I’m interested in operating systems, compilers, distributed systems,  
-and low-level software architecture. I build projects where performance,  
-asynchrony and system abstractions matter.
+I’m interested in low-level software, compilers, and system abstractions.  
+Most of my projects are built around C/C++, Linux/POSIX, interpreters, parsers,  
+GPU programming, and tooling for graph-based computation.
 
 ---
 
@@ -13,21 +13,20 @@ asynchrony and system abstractions matter.
 
 **Languages:** C, C++, Python, Bash  
 **Systems:** Linux, POSIX API  
-**Tools:** Git, Make, CMake, GTest, CTest, GitHub Actions
-**Technologies and libraries:** Flex, Bison, SQLite, libuv, ncurces, OpenCL
+**Tools:** Git, Make, CMake, GTest, CTest, GitHub Actions  
+**Technologies and libraries:** Flex, Bison, OpenCL, SQLite, libuv, ncurses, Protobuf, ONNX, Graphviz
 
 ---
 
 ## 🎓 Education
 
 **MIPT — Moscow Institute of Physics and Technology**  
-Faculty of Radio Engineering and Cybernetics (DREC)  
+Department of Radio Engineering and Cybernetics (DREC)  
 2024 — present
 
 ---
 
 ## 📫 Contacts
 
-📧 Email: **romaostafeychuk@gmail.com**  
+📧 Email: **<romaostafeychuk@gmail.com>**  
 🐙 GitHub: **[@rozmar1n](https://github.com/rozmar1n)**
-
